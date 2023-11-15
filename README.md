@@ -23,7 +23,7 @@ Here are some technologies I enjoy working with:
 Feel free to browse through my projects, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramybouchareb25&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramybouchareb25&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 # You can support me if you want 👀
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ramybouchareb)
