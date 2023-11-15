@@ -1,4 +1,5 @@
 ### Hi there 👋
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ramybouchareb)
 
 <!--
 **RamyBouchareb25/RamyBouchareb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
