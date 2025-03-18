@@ -6,6 +6,7 @@
 🎓 I'm a passionate computer science student, currently diving deep into the world of mobile development.
 
 💻 As a junior mobile developer, I'm enthusiastic about creating seamless and engaging user experiences.
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
 ## Check Out My Contributions
 
